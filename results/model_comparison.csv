@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Training Time Seconds,Inference Time Seconds
+TF-IDF + Logistic Regression,0.8517976588628763,0.838036447282092,0.8747453910356289,0.8540476897286673,10.070031700000072,0.4819417000003341
